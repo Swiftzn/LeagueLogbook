@@ -17,7 +17,7 @@ try
     var puuId = summoner.Puuid;
     
     
-    
+    //NOT WORKING ON OTHER PC'S FOR SOME REASON
     var matchlist = api.Match.GetMatchListAsync(RiotSharp.Misc.Region.Europe, puuId, matchStart, matchEnd, 420).Result;
     Console.WriteLine("============================================");
     Console.WriteLine("Summoner Info");
