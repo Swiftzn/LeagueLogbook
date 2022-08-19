@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League Logbook Console", "League Logbook Console\League Logbook Console.csproj", "{CD4BE8D2-A2DB-47FE-91F3-85D6E0506644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4BE8D2-A2DB-47FE-91F3-85D6E0506644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4BE8D2-A2DB-47FE-91F3-85D6E0506644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4BE8D2-A2DB-47FE-91F3-85D6E0506644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4BE8D2-A2DB-47FE-91F3-85D6E0506644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F422500F-2E2E-424C-975E-35E48E764602}
+	EndGlobalSection
+EndGlobal
